@@ -47,6 +47,16 @@ Unity Lobby is a first-party multiplayer service that provides all the necessary
 
 - Kick/ban and host migration logic
 
+## ⚙️ How Does the Plugin Work? – Quick Start
+
+1 - Navigate to Prefabs/LobbySystem in your project folder.
+
+2 - Drag and drop the required Lobby System prefabs into your scene.
+
+3 - Press “Play” in the Unity Editor.
+
+4 - Enjoy the complete multiplayer lobby system out of the box!
+
 ## 🎮 Game Features
 ### Lobby System
 
