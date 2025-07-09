@@ -76,6 +76,7 @@ MyRelayManager: Manages Relay allocations/join codes and network setup.
 - [x] Custom lobby data (game mode, map, level, etc.)
 - [ ] **Coming soon:** Character customization before game start
 - [ ] **Coming soon:** Playable shared scene for all players once host starts the match
+- [ ] **Coming soon:**: Dynamic modification of lobby parameters after creation (game mode, map, player limit)
 
 ## 👨‍💻 Author
 *Specialization Project by [Grasso Lorenzo] – Multiplayer Programmer*
