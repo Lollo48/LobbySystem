@@ -54,3 +54,21 @@ MyLobbyManager: Handles lobby logic and Unity Services interface.
 
 MyRelayManager: Manages Relay allocations/join codes and network setup.
 
+<h4 align="center"> Features Roadmap  </h4>
+
+- [x] Lobby creation/joining with host migration
+- [x] Secure Relay session management
+- [x] Ban/kick management with serialization
+- [x] Custom lobby data (game mode, map, level, etc.)
+- [ ] **Coming soon:** Character customization before game start
+- [ ] **Coming soon:** Playable shared scene for all players once host starts the match
+
+## 👨‍💻 Author
+
+*Specialization Project by [Grasso Lorenzo] – Multiplayer Programmer*
+
+
+## 📄 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
