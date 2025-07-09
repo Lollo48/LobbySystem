@@ -31,6 +31,22 @@ This project involves the development of a robust multiplayer infrastructure for
 >   - `com.unity.transport`  
 >   - `com.unity.services.authentication`
 
+## 🧩 Unity Lobby Plugin – Explanation & Workflow
+
+Unity Lobby is a first-party multiplayer service that provides all the necessary tools to create, manage, and join multiplayer game lobbies. It lays the foundation for matchmaking, session management, and real-time coordination between players before the actual gameplay begins.
+
+### With Unity Lobby, you can easily support:
+
+> - Public and private lobbies
+
+> - Player metadata (names, levels, etc.)
+
+> - Custom lobby data (game mode, map, player level, etc.)
+
+> - Player list visualization
+
+> - Kick/ban and host migration logic
+
 ## 🎮 Game Features
 ### Lobby System
 
