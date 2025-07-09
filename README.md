@@ -1,10 +1,17 @@
 <h1 align="center">
-  Lobby system
+  🎮 Lobby System – Multiplayer Programmer Specialization 🎮
 </h1>
 
-<h4 align="center">
-Multiplayer Programmer Specialization </h4>
-<h4 align="center">lobby System </h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-6000.1.4f1-blue?logo=unity&logoColor=white" alt="Unity Version"/>
+  <img src="https://img.shields.io/badge/Netcode-GameObjects-orange" alt="Netcode"/>
+  <img src="https://img.shields.io/badge/Relay-Lobby-green" alt="Relay Lobby"/>
+</p>
+
+<p align="center">
+  <b>Robust Multiplayer Infrastructure for Unity PvP Games</b><br/>
+  <i>Lobby management, peer-to-peer matchmaking, host migration, kick/ban, and secure relay sessions.</i>
+</p>
 
 https://github.com/user-attachments/assets/638f0d60-8162-4ff6-997e-4aa0f0e6cbab
 
