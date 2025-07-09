@@ -64,7 +64,11 @@ MyRelayManager: Manages Relay allocations/join codes and network setup.
 - [ ] **Coming soon:** Playable shared scene for all players once host starts the match
 
 Author
+
 *Specialization Project by [Grasso Lorenzo] – Multiplayer Programmer*
+
 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 
