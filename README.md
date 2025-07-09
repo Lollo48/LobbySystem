@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <b>Robust Multiplayer Infrastructure for Unity PvP Games</b><br/>
   <i>Lobby management, peer-to-peer matchmaking, host migration, kick/ban, and secure relay sessions.</i>
 </p>
 
@@ -48,7 +47,7 @@ Custom Lobby Data
 GameMode, Map, Player Level, RelayCode, BannedPlayers (all serialized for each lobby)
 
 <h4 align="center"> Technical Architecture </h4>
-GameLobbyManager: Central singleton, connects UI, lobby, and relay systems
-MyLobbyManager: Handles lobby logic and Unity Services interface
-MyRelayManager: Manages Relay allocations/join codes and network setup
+GameLobbyManager: Central singleton, connects UI, lobby, and relay systems.
+MyLobbyManager: Handles lobby logic and Unity Services interface.
+MyRelayManager: Manages Relay allocations/join codes and network setup.
 
