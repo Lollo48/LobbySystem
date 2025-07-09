@@ -37,15 +37,15 @@ Unity Lobby is a first-party multiplayer service that provides all the necessary
 
 ### With Unity Lobby, you can easily support:
 
-> - Public and private lobbies
+- Public and private lobbies
 
-> - Player metadata (names, levels, etc.)
+- Player metadata (names, levels, etc.)
 
-> - Custom lobby data (game mode, map, player level, etc.)
+- Custom lobby data (game mode, map, player level, etc.)
 
-> - Player list visualization
+- Player list visualization
 
-> - Kick/ban and host migration logic
+- Kick/ban and host migration logic
 
 ## 🎮 Game Features
 ### Lobby System
