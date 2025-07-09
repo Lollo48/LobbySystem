@@ -50,6 +50,5 @@ GameMode, Map, Player Level, RelayCode, BannedPlayers (all serialized for each l
 GameLobbyManager: Central singleton, connects UI, lobby, and relay systems.
 
 MyLobbyManager: Handles lobby logic and Unity Services interface.
-
 MyRelayManager: Manages Relay allocations/join codes and network setup.
 
