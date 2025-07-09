@@ -17,6 +17,16 @@ https://github.com/user-attachments/assets/638f0d60-8162-4ff6-997e-4aa0f0e6cbab
 ## 📝 Overview Overview 
 This project involves the development of a robust multiplayer infrastructure for a PvP game in Unity, leveraging Unity Lobby and Unity Relay services. The system supports creation, management, discovery, and participation in multiplayer lobbies with peer-to-peer matchmaking, host migration, ban/kick functionality, public/private lobbies, and secure match start via Relay join codes.
 
+## 🚀 Game Engine, Plug-ins, SDK
+
+> - Unity 6000.1.4f1 or newer  
+> - Packages:  
+>   - `com.unity.services.lobby`  
+>   - `com.unity.services.relay`  
+>   - `com.unity.netcode.gameobjects`  
+>   - `com.unity.transport`  
+>   - `com.unity.services.authentication`
+
 ## 🎮 Game Features
 ### Lobby System
 
@@ -63,12 +73,10 @@ MyRelayManager: Manages Relay allocations/join codes and network setup.
 - [ ] **Coming soon:** Character customization before game start
 - [ ] **Coming soon:** Playable shared scene for all players once host starts the match
 
-Author
-
+## 👨‍💻 Author
 *Specialization Project by [Grasso Lorenzo] – Multiplayer Programmer*
 
-License
-
+## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 
