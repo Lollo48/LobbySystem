@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/638f0d60-8162-4ff6-997e-4aa0f0e6cbab
 <h4 align="center"> Overview </h4>
 This project involves the development of a robust multiplayer infrastructure for a PvP game in Unity, leveraging Unity Lobby and Unity Relay services. The system supports creation, management, discovery, and participation in multiplayer lobbies with peer-to-peer matchmaking, host migration, ban/kick functionality, public/private lobbies, and secure match start via Relay join codes.
 
-<h4 align="center"> Game Design Features </h4>
+<h4 align="center"> Game Features </h4>
 Lobby System
 
 Creation of public/private lobbies
